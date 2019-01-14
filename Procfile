@@ -1,1 +1,1 @@
-web:gunicorn OOPP E LEARNING:app
+web: gunicorn app:app
